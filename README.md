@@ -1,3 +1,3 @@
 # apna_college-demo
-Still learning Git &amp; Github
+Still learning Git and Github.
 By - Imran Reza
